@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.group{
+    text-align: center;
+    margin: 100px auto;
+}
+.Quote{
+    width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px 10px 50px 5px;
+    box-shadow: 1px 0px 5px 1px gray;
+    padding: 10px 2px;
+}
+img{
+    width: 100px;
+}
+p{
+    color: rgb(201, 0, 171);
+    margin: 20px 30px;
+    text-align: justify;
+}
+button{
+    margin: 20px 0px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: rgb(28, 25, 25);
+    color: white;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+.image-head{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+#suc2{
+    display: none;
+}
